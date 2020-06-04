@@ -6,3 +6,5 @@ var g = 6;
 let aa = 1;
 var f = 123;
 let bb = 123;
+var aaa = 123;
+var aaaa = 123;
