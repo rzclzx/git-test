@@ -4,3 +4,5 @@ var c = 3;
 var d = 5;
 var g = 6;
 let aa = 1;
+var f = 123;
+let bb = 123;
