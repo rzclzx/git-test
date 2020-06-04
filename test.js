@@ -8,3 +8,4 @@ var f = 123;
 let bb = 123;
 var aaa = 123;
 var aaaa = 123;
+var bbb = 123;
